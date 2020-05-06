@@ -1,4 +1,4 @@
-module urljoin
+module github.com/shimohq/go-url-join
 
 go 1.14
 
